@@ -1,0 +1,21 @@
+{
+	"name": "node-express-dispatcher",
+	"private": true,
+	"description": "Request dispatcher for Express. Supports controllers with asynchronous actions and abstracts response rendering.",
+	"version": "0.0.4",
+	"dependencies": {
+		"underscore": "1.5.2"
+	},
+	"devDependencies": {
+		"underscore": "~1.5.2"
+	},
+	"keywords": [
+		"request dispatcher",
+		"dispatcher",
+		"routing",
+		"json",
+		"restful"
+	],
+	"main": "index",
+	"readmeFilename": "README.md"
+}
